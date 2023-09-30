@@ -22,6 +22,6 @@
                  }
          },
 
-         "forwardPorts": [8080],
+         "forwardPorts": [1521],
          "postCreateCommand": "./mvnw package"
  }
